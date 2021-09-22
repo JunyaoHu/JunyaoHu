@@ -3,19 +3,13 @@
   <br><br>
   <samp>
     :wave: Hey! Welcome to my profile
-    <br>I am a full time programmer, part-time tour guide, and non famous crosstalk actor.
+    <br>I am a CUMT student major in CS.
     <br>
-    <img src="https://github.com/guobinhit/guobinhit/blob/master/loading/Kamado-Nezuko.gif" width="150px" height="150px" align="center">
     <br><br>:pizza: Take a look at my stats :P<br><br>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=guobinhit&&show_icons=true&&theme=tokyonight" />
   </samp>
 <br>
 </p>
-
-
-**guobinhit/guobinhit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
