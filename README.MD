@@ -6,7 +6,7 @@
     <br>I am a CUMT student major in CS.
     <br>This is my blog! -> https://junyaohu.github.io/
     <br><br>:pizza: Take a look at my stats :P<br><br>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=guobinhit&&show_icons=true&&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=junyaohu&&show_icons=true&&theme=tokyonight" />
   </samp>
 <br>
 </p>
