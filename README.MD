@@ -12,7 +12,7 @@
 </p>
 
 - 🎓 An undergraduate major in Computer Science and Technology at CUMT (2019 - 2023)
-- ✨ A bachelor-straight-to-doctorate student of NKU (2024-?)
+- ✨ A bachelor-straight-to-doctorate student of NKU (2024 - ?)
 - 🌱 I’m currently learning Computer Vision.
 - 💬 Ask me about anything about CV and other interesting, and I try my best to help you :)
 - 📫 How to reach me: 
