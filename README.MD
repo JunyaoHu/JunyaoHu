@@ -1,12 +1,11 @@
+# Hello World :) I'm Hu Junyao (胡钧耀)
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
-  <br><br>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ma+Shan+Zheng&pause=1000&color=417BF7&center=true&vCenter=true&width=435&height=30&lines=%E7%90%86%E6%83%B3%E4%B8%8D%E5%A4%A7%EF%BC%8C%E8%B7%AF%E8%BF%98%E5%BE%88%E8%BF%9C%E3%80%82" alt="Typing SVG" /></a><br>
   <samp>
     :wave: Hey! Welcome to my profile
     <br>I am a CUMT student major in CS.
     <br>This is my blog! -> https://junyaohu.github.io/
-    <br><br>:pizza: Take a look at my stats :P<br><br>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=junyaohu&&show_icons=true&&theme=tokyonight" />
   </samp>
 <br>
 </p>
@@ -20,5 +19,5 @@
   - Bilibili: <a href="https://space.bilibili.com/2042113">-胡椒椒椒</a>
   - WeChat: LittleDream_hjy (indicate the reason)
   - Email: hujunyao@cumt.edu.cn
-- ❤️ Motto: 理想不大，路还很远。 I have a little dream to chase, and I have a long way to go.
+- ❤️ Motto: I have a little dream to chase, and I have a long way to go.
 - 🎵 BGM: <a href="https://music.163.com/#/song?id=465921645">理想不大 - RAiNBOW计划</a> 
