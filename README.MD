@@ -12,8 +12,8 @@
 
 - 🎓 An undergraduate major in Computer Science and Technology at CUMT (2019 - 2023)
 - ✨ A bachelor-straight-to-doctorate student of NKU (2024 - ?)
-- 🌱 I’m currently learning Computer Vision.
-- 💬 Ask me about anything about CV and other interesting, and I try my best to help you :)
+- 🌱 I’m currently learning diffusion / generative model and computer vision.
+- 💬 Ask me about anything about DM, CV and other interesting, and I try my best to help you :)
 - 📫 How to reach me: 
   - Blog: <a href="https://junyaohu.github.io/">胡椒的 Coding Room</a>
   - Bilibili: <a href="https://space.bilibili.com/2042113">-胡椒椒椒</a>
