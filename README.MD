@@ -11,7 +11,7 @@
 </p>
 
 - 🎓 An undergraduate major in Computer Science and Technology at CUMT (2019 - 2023)
-- ✨ A bachelor-straight-to-doctorate student of Nankai University <a href="https://cv.nankai.edu.cn/">CV Lab</a> (2024 - 2029)
+- ✨ A bachelor-straight-to-doctorate student of Nankai University <a href="https://cv.nankai.edu.cn/">CV Lab</a> (2023 - 2028)
 - 🌱 I’m currently learning diffusion / generative model and computer vision.
 - 💬 Ask me about anything about DM, CV and other interesting, and I try my best to help you :)
 - 📫 How to reach me: 
