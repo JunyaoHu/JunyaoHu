@@ -1,4 +1,4 @@
-# Hello World :) I'm Hu Junyao (胡钧耀)
+# Hello World :) I'm Junyao Hu (胡钧耀)
 
 <p align="center">
 <!--   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ma+Shan+Zheng&pause=1000&color=417BF7&center=true&vCenter=true&width=435&height=30&lines=%E7%90%86%E6%83%B3%E4%B8%8D%E5%A4%A7%EF%BC%8C%E8%B7%AF%E8%BF%98%E5%BE%88%E8%BF%9C" alt="Typing SVG" /></a><br> -->
