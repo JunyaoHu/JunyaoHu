@@ -18,7 +18,7 @@
   - Blog: <a href="https://junyaohu.github.io/">胡椒的 Coding Room</a>
   - Bilibili: <a href="https://space.bilibili.com/2042113">-胡椒椒椒</a>
   - WeChat: LittleDream_hjy (indicate the reason)
-  - Email: hujunyao@cumt.edu.cn
+  - Email: hujunyao@mail.nankai.edu.cn
   - AIGC in Vision QQ Group: 555379590
 - ❤️ Motto: I have a little dream to chase, and I have a long way to go.
 - 🎵 BGM: <a href="https://music.163.com/#/song?id=465921645">理想不大 - RAiNBOW计划</a> 
