@@ -19,6 +19,6 @@
   - WeChat: LittleDream_hjy (indicate the reason)
   - Email: hujunyao@mail.nankai.edu.cn
   - Vision AIGC WeChat Group (for discussion of technology, business, and products!) ↓
-  - QrCode: <a href="https://smms.app/image/vnD9k2BuX1HWFhm" target="_blank"><img src="https://s2.loli.net/2024/02/15/vnD9k2BuX1HWFhm.jpg" style="zoom: 25%;"></a>
+  - QrCode: <a href="https://smms.app/image/X2Z1l9Mgk8VuYqw" target="_blank"><img src="https://s2.loli.net/2024/02/15/X2Z1l9Mgk8VuYqw.png" /></a>
 - ❤️ Motto: I have a little dream to chase, and I have a long way to go.
 - 🎵 BGM: <a href="https://music.163.com/#/song?id=465921645">理想不大 - RAiNBOW计划</a> 
