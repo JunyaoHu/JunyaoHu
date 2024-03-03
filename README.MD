@@ -14,10 +14,11 @@
 - 🌱 I’m currently learning computer vision, and researching image emotion analysis, video understanding, and vision generative models.
 - 💬 Ask me about anything about computer vision and other interesting, and I will try my best to help you :)
 - 📫 How to reach me: 
+  - Email: hujunyao@mail.nankai.edu.cn
   - Blog: <a href="https://junyaohu.github.io/">胡椒的 Coding Room</a>
   - Bilibili: <a href="https://space.bilibili.com/2042113">-胡椒椒椒</a>
+  - WeChat Official Accounts: 胡小乐杂货铺
   - WeChat: LittleDream_hjy (indicate the reason)
-  - Email: hujunyao@mail.nankai.edu.cn
-  - Vision AIGC WeChat Group (for discussion of technology, business, and products!) ↓ <br/><a href="https://smms.app/image/X2Z1l9Mgk8VuYqw" target="_blank"><img src="https://s2.loli.net/2024/02/15/X2Z1l9Mgk8VuYqw.png" /></a>
+  - Vision AIGC WeChat Group (for discussion of technology, business, and products!): add my WeChat, and I will invite you.
 - ❤️ Motto: I have a little dream to chase, and I have a long way to go.
 - 🎵 BGM: <a href="https://music.163.com/#/song?id=465921645">理想不大 - RAiNBOW计划</a> 
