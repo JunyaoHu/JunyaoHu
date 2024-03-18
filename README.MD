@@ -21,4 +21,6 @@
   - WeChat: LittleDream_hjy (indicate the reason)
   - Vision AIGC WeChat Group (for discussion of technology, business, and products!): add my WeChat, and I will invite you.
 - ❤️ Motto: I have a little dream to chase, and I have a long way to go.
-- 🎵 BGM: <a href="https://music.163.com/#/song?id=465921645">理想不大 - RAiNBOW计划</a> 
+- 🎵 BGM: 
+  - “你是否也厌倦了日复一日的庸常” - <a href="https://music.163.com/#/song?id=465921645">理想不大 - RAiNBOW计划</a> 
+  - “身心在日出日落间耗转” - <a href="https://music.163.com/#/song?id=1415391653">如果明天就是下一生 - 厦门二中合唱团</a> 
