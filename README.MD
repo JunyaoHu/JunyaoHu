@@ -13,7 +13,7 @@
 - 📫 How to reach me: 
   - Email: hujunyao0329@gmail.com
   - Blog: <a href="https://junyaohu.github.io/">胡椒的 Coding Room</a>
-  - Bilibili: <a href="https://space.bilibili.com/2042113">Junyao</a>
+  - Bilibili: <a href="https://space.bilibili.com/2042113">Junyao Hu</a>
   - WeChat Official Accounts: Vision AIGC
   - WeChat: LittleDream_hjy (indicate the reason)
   - Vision AIGC WeChat Group (for discussion of technology, business, and products!): add my WeChat, and I will invite you.
